@@ -1,4 +1,4 @@
-# What's the assignment is about 
+# Assignment details 
 
 <b> In this assignment, We had to predict whether a persom has diabetes or not using various features. </b>
 
