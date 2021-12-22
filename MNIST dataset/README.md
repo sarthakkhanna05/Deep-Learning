@@ -4,7 +4,7 @@ Use the code provided in demo 02 to complete this assignment.
 
 Step 1. Follow along with the tutorial to gain an understanding of the process
 
-Step 2. In a new .ipynb notebook, reproduce the results utilizing the original MNIST dataset (built into tf.keras.datasets)
+Step 2. In a new .ipynb notebook(Digit Prediction), reproduce the results utilizing the original MNIST dataset (built into tf.keras.datasets)
 
 Step 3. Report on the results in terms of prediction accuracy on the train and test datasets
 
