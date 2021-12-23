@@ -4,7 +4,7 @@
 
 Refer to demo_04-classification for examples on setting up a custom dataset.
 
-Step 1. Create your own dataset featuring 3 custom categories of at least 100 images each
+Step 1. Create your own dataset featuring 3 custom categories of at least 100 images each (Run dataset generator.ipynb)
 
 Step 2. Split this data between 80% training and 20% test
 
